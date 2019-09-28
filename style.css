@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#section{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    
+}
