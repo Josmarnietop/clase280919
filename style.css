@@ -1,0 +1,13 @@
+.carousel-item {
+    height: 20em;
+}
+
+.carousel-item img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    max-width: 90%;
+    height: auto;
+}
