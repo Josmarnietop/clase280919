@@ -10,4 +10,13 @@
     margin-bottom: auto;
     max-width: 90%;
     height: auto;
+.container{
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+}
+.container .card{
+    flex: 1;
+    padding: 10px;
+    
 }
