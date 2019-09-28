@@ -1,0 +1,11 @@
+*{
+    font-family: Arial;
+}
+#caja{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+    background-color: blue;
+    border: solid 1px black;
+}
